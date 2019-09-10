@@ -1,6 +1,5 @@
 ---
 
-layout: post
 title: "You're Awesome!!"
 
 ---
